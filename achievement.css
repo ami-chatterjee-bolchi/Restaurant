@@ -1,0 +1,29 @@
+#achievement {
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(to left, #1c1c1c, #3a3a3a);
+    }
+.card-body h5{
+    font-size: 1.3rem;
+}
+    .col-md-4{
+      transition: 0.3s ease; 
+    }
+    .col-md-4:hover{
+        transform: scale(1.05);
+        filter: brightness(20%);
+    }
+    .gallery-title {
+        font-family: "Cookie", cursive;
+        font-weight: 100;
+        font-style: normal;
+        color: goldenrod;
+    }
+
+    .gallery-card img {
+      height: 200px;
+      object-fit: cover;
+    }
+
+    .section {
+      padding: 60px 0;
+    }

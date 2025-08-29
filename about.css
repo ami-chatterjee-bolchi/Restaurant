@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 100%;
+    scroll-behavior: smooth;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    overflow-x: hidden;
+}
+#about{
+    background-color:#1b1b1b ;
+    height: 800px;
+    display: flex;
+    align-items: center;
+}
+#text{
+    font-family: "Monoton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    width: 35%;
+    margin-left: 10%;
+}
+#text h3{
+    color: darkkhaki;
+    font-size: 2rem;   
+}
+#text h5{
+    font-family: "Fredericka the Great", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #fff;
+    font-size: 1.2rem;
+}
+#food{
+    margin-left: 20%;
+    height: 50%;
+    width: 50%;
+}
+#food:hover{
+    filter:brightness(30%);
+}
