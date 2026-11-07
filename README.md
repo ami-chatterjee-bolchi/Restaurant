@@ -55,7 +55,7 @@ You can preview the webpage here :  https://ami-chatterjee-bolchi.github.io/Rest
 This is a resturant project. Suggestions for adding a backend and server for real-time order processing are welcome!
   * Fork the Project.
   * Create your Feature Branch.
-  * Open a Pull Request.
+  * Open a Pull Request
     
 ##
 Designed with Passion by ***Tirthankar Chatterjee*** [“Where good food meets good mood.”]
